@@ -1,0 +1,16 @@
+h1{
+  text-align: center;
+  text-decoration: underline;
+}
+
+.Marvel{
+  color: blue;
+}
+
+.DC{
+  color: red;
+}
+
+#other{
+  color: orange;
+}
